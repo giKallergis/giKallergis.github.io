@@ -1,6 +1,4 @@
-# Georgios Kallergis
 
-**ML researcher specializing in transformer language models for drug discovery.**
 
 I recently completed my PhD at the [Helmholtz Centre for Infection Research](https://www.helmholtz-hzi.de/), where I developed **[ChemLM](https://www.nature.com/articles/s42004-025-01484-4)** — a transformer-based chemical language model published as first author in *Communications Chemistry* (2025). ChemLM outperformed state-of-the-art models at identifying drug candidates against *Pseudomonas aeruginosa*, a WHO-priority multidrug-resistant pathogen.
 
@@ -32,4 +30,3 @@ Currently building out this profile. Here's some of my work in the meantime:
 ## Contact
 
 gkallergis7@gmail.com
-[LinkedIN](https://www.linkedin.com/in/georgios-kallergis/)
