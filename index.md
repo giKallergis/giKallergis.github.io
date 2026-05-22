@@ -26,7 +26,10 @@ Currently building out this profile. Here's some of my work in the meantime:
 - [Data visualization course](https://github.com/hzi-bifo/seminar-plotting)
 - [Deep Learning for Molecular Biology Seminar](https://github.com/hzi-bifo/seminar-dlmb-2026-summer-public)
 
-
+More repos will get public soon:
+- Task adaptation using LoRA
+- Contrastive learning
+- Drug Target Interaction prediction using Transformers
 
 ## Contact
 
