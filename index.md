@@ -1,9 +1,4 @@
----
-layout: default
-title: Giorgos Kallergis
----
-
-# Giorgos Kallergis
+# Georgios Kallergis
 
 **ML researcher specializing in transformer language models for drug discovery.**
 
@@ -23,8 +18,7 @@ I'm currently working on antimicrobial resistance (AMR) prediction and looking f
 
 - 📄 [Nature paper (Communications Chemistry, 2025)](https://www.nature.com/articles/s42004-025-01484-4)
 - 💻 [ChemLM code on GitHub](https://github.com/hzi-bifo/ChemLM)
-- 🤗 [Trained models on HuggingFace](https://huggingface.co/gkallergis)
-- 👤 [LinkedIn](https://linkedin.com/in/giorgos-kallergis)
+- 👤 [LinkedIn](https://linkedin.com/in/georgios-kallergis)
 - 🐙 [GitHub](https://github.com/giKallergis)
 
 ## Contact
