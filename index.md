@@ -30,6 +30,8 @@ More repos will get public soon:
 - Task adaptation using LoRA
 - Contrastive learning
 - Drug Target Interaction prediction using Transformers
+- Chemical space evaluation
+- Curriculum learning
 
 ## Contact
 
