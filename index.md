@@ -21,6 +21,15 @@ I'm currently working on antimicrobial resistance (AMR) prediction and looking f
 - 👤 [LinkedIn](https://linkedin.com/in/georgios-kallergis)
 - 🐙 [GitHub](https://github.com/giKallergis)
 
+## Repos
+
+Currently building out this profile. Here's some of my work in the meantime:
+- [ChemLM](https://github.com/hzi-bifo/ChemLM)
+- [Data visualization course](https://github.com/hzi-bifo/seminar-plotting)
+- [Deep Learning for Molecular Biology Seminar](https://github.com/hzi-bifo/seminar-dlmb-2026-summer-public)
+
+
 ## Contact
 
 gkallergis7@gmail.com
+[LinkedIN](https://www.linkedin.com/in/georgios-kallergis/)
