@@ -23,7 +23,7 @@ I'm currently working on antimicrobial resistance (AMR) prediction and looking f
 
 Currently building out this profile. Here's some of my work in the meantime:
 - [ChemLM](https://github.com/hzi-bifo/ChemLM)
-- [A lightweight FastAPI service](https://github.com/giKallergis/esm2-embedding-service)
+- [A FastAPI service to get protein embeddings from ESM-2](https://github.com/giKallergis/esm2-embedding-service)
 - [ViT on BloodMNIST dataset]([https://github.com/hzi-bifo/seminar-plotting](https://github.com/giKallergis/medmnist-vit-benchmark))
 - [Data visualization course](https://github.com/hzi-bifo/seminar-plotting)
 - [Deep Learning for Molecular Biology Seminar](https://github.com/hzi-bifo/seminar-dlmb-2026-summer-public)
