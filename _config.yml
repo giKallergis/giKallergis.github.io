@@ -1,3 +1,18 @@
-theme: jekyll-theme-slate
 title: Georgios Kallergis
-description: ML researcher —  transformer language models for drug discovery
+description: ML researcher — transformer language models for drug discovery
+url: https://gikallergis.github.io
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+# Navigation tabs (used by layout)
+nav_tabs:
+  - title: Publications
+    url: /
+  - title: Projects
+    url: /projects/
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
