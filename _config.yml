@@ -12,6 +12,8 @@ nav_tabs:
     url: /
   - title: Projects
     url: /projects/
+  - title: Skills
+    url: /skills/
   - title: About
     url: /about/
   - title: Contact
