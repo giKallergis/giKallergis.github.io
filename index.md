@@ -18,6 +18,8 @@ title: Publications
   <p class="pub-summary">
     ChemLM uses domain-adaptive pretraining on chemical SMILES strings to generate and rank novel compounds. Applied to anti-virulence drug discovery, it identified potent pathoblockers validated in vitro — outperforming existing generative chemistry models on this task.
   </p>
+  <img src="/paper-figure.png" alt="ChemLM overview" style="width:100%; border-radius:8px; margin-top:14px;">
 </div>
+
 
 More publications to be added as ongoing work is published.
