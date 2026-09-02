@@ -6,9 +6,9 @@ permalink: /about/
 
 ## About
 
-I'm a machine learning researcher focused on applying transformer architectures to molecular and biological data. My PhD work at the [Helmholtz Centre for Infection Research](https://www.helmholtz-hzi.de/) (Braunschweig, Germany) centered on building generative language models over chemical SMILES representations to accelerate early-stage drug discovery against antimicrobial-resistant pathogens.
+I'm a machine learning researcher focused on applying transformer architectures to molecular and biological data. My PhD work at the [Helmholtz Centre for Infection Research](https://www.helmholtz-hzi.de/) (Braunschweig, Germany) centered on building property predition models using chemical SMILES representations to accelerate early-stage drug discovery against antimicrobial-resistant pathogens. My work focused around transformers architecture and domain adaptation.  
 
-Beyond ChemLM, I've worked on protein language models (ESM-2 embeddings), vision transformers for medical imaging, and deep learning curriculum development for graduate students in molecular biology.
+Beyond ChemLM, I've worked on protein language models (ESM-2 embeddings), DNA models with a particular interest on interpretability. Other interests are RAG, developing multimodal models and learning agentic AI. 
 
 ### Technical Stack
 
@@ -29,4 +29,7 @@ Beyond ChemLM, I've worked on protein language models (ESM-2 embeddings), vision
 ### Education
 
 **PhD, Computational Biology / ML**  
-Helmholtz Centre for Infection Research, Braunschweig, Germany
+Helmholtz Centre for Infection Research (HZI), Technical Univeristy of Braunschweig, Germany
+
+**Integrated Master, Electrical and Computer Engineering **  
+Technical University of Chania, Greece
